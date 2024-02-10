@@ -1,1 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(255, 179, 231);
+}
+
+.header_text {
+  font-family: "Clearface";
+  font-size: 50px;
+  font-weight: bold;
+  color: rgb(248, 160, 101);
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.gif_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
